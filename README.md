@@ -10,7 +10,7 @@ Please cite our paper if you use this code in your own research.
 Bo Liu, Xiangguo Sun, Zeyang Ni, Jiuxin Cao, Junzhou Luo, Benyuan Liu, Xinwen Fu. Co-Detection of Crowdturﬁng Microblogs and Spammers in Online Social Networks. World Wide Web. 2019.
 
 ```
-@Article{sungroup_level_personality,
+@Article{liu2020codetection,
 author="Liu, Bo
 and Sun, Xiangguo
 and Ni, Zeyang
@@ -20,9 +20,7 @@ and Liu, Benyuan
 and Fu, Xinwen",
 title="Co-Detection of Crowdturﬁng Microblogs and Spammers in Online Social Networks",
 journal="World Wide Web",
-year="2019",
-month="??",
-day="??",
+year="2020"
 }
 
 
